@@ -2,7 +2,7 @@
 
 - 👀 Me interessei e ingressei na programação há não muito tempo, mas já posso me considerar como um futuro Desenvolvedor Web/Front-End
 
-- 📚 Curso Análise e Desenvolvimento de Sistemas - 2/5
+- 📚 Curso Análise e Desenvolvimento de Sistemas - 3/5
 
 - 🌱 Aprendo constantemente as bases da programação Web (HTML, e engatinhando em CSS e Javascript), Python e lógica de programação e futuramente, quem sabe, desenvolvimento Android
 
