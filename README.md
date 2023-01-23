@@ -1,12 +1,12 @@
-- 👋 Me chamo Felipe da Silva Rodrigues (@Fepataaty)
+- 👋 Me chamo Felipe da Silva Rodrigues (@_felipesilva.0)
 
-- 👀 Me interessei e ingressei na programação há não muito tempo, mas já posso me considerar como um futuro Desenvolvedor Web/Front-End
+- 👀 Minha linguagem de programação primária é JavaScript, porém também gosto de praticar Python e pretendo iniciar os estudos em Kotlin, já que me interesso em desenvolvimento mobile.
 
-- 📚 Curso Análise e Desenvolvimento de Sistemas - 3/5
+- 📚 Curso Análise e Desenvolvimento de Sistemas - 4/5 @ Faculdade Anhanguera de Osasco
 
-- 🌱 Aprendo constantemente as bases da programação Web (HTML, e engatinhando em CSS e Javascript), Python e lógica de programação e futuramente, quem sabe, desenvolvimento Android
+- 🌱 Estudo constantemente JavaScript e começando a entrar em React/React Native.
 
-- 💞️ Estou aqui no GitHub principalmente para registrar todos os meus projetos durante a minha jornada para se tornar #Dev
+- 💞 Estou no GitHub para registrar toda a minha evolução nos estudos.
 
 
 <!---
