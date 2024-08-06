@@ -24,7 +24,7 @@ Fui estagiário na **Serasa Experian** de Agosto de 2022 até Dezembro de 2023.
 
 Nessa trajetória, pude auxiliar em dois projetos: **Desenvolvimentos de Interfaces utilizando Angular** e **Testes e2e e Funcionais de Mappers Java com Cucumber**, além de auxiliar em outras demandas.
 Tecnologias que tive contato:
-<div style="display: inline_block" >
+<div style="display: inline_block; margin-bottom: 10" >
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
