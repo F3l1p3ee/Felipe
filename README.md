@@ -24,14 +24,14 @@ Fui estagiário na **Serasa Experian** de Agosto de 2022 até Dezembro de 2023.
 
 Nessa trajetória, pude auxiliar em dois projetos: **Desenvolvimentos de Interfaces utilizando Angular** e **Testes e2e e Funcionais de Mappers Java com Cucumber**, além de auxiliar em outras demandas.
 Tecnologias que tive contato:
-<div style="display: inline_block; margin-bottom: 10" >
+<div style="display: inline_block" >
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</div> <br><br>
 
 
 Atualmente, sou Analista em Desenvolvimento de Software Jr na **Serasa Experian**, numa squad com a linguagem principal sendo **PHP**, desde Janeiro de 2024.
